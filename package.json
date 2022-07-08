@@ -1,0 +1,26 @@
+{
+  "name": "harneet",
+  "displayName": "harneet",
+  "description": "A collection of dark themes based on the other themes",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "harneet-monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/harneet-monokai.json"
+      },
+      {
+        "label": "harneet-subtle-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/harneet-subtle-dark.json"
+      }
+    ]
+  }
+}
