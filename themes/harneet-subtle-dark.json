@@ -441,8 +441,8 @@
     "textBlockQuote.background": "#111216",
     "textBlockQuote.border": "#817c9c26",
     "textCodeBlock.background": "#111216",
-    "textLink.activeForeground": "#fde5fae6",
-    "textLink.foreground": "#fde5fa",
+    "textLink.activeForeground": "#eaf2f1",
+    "textLink.foreground": "#ffd76d",
     "textPreformat.foreground": "#9898a6",
     "textSeparator.foreground": "#575861",
     "titleBar.activeBackground": "#0F1014",
@@ -453,9 +453,14 @@
     "toolbar.hoverBackground": "#817c9c26",
     "tree.indentGuidesStroke": "#575861",
     "walkThrough.embeddedEditorBackground": "#0F1014",
-    "welcomePage.background": "#0F1014",
-    "welcomePage.buttonBackground": "#111216",
-    "welcomePage.buttonHoverBackground": "#131317",
+    // "welcomePage.background": "#0F1014",
+    // "welcomePage.buttonBackground": "#111216",
+    // "welcomePage.buttonHoverBackground": "#131317",
+    "welcomePage.progress.background": "#3a3d4b",
+    "welcomePage.progress.foreground": "#ffd76d",
+    "welcomePage.tileBackground": "#111216",
+    "welcomePage.tileHoverBackground": "#131317",
+    "welcomePage.tileShadow": "#161821",
     "widget.shadow": "#1917244d",
     "window.activeBorder": "#111216",
     "window.inactiveBorder": "#111216"
@@ -504,7 +509,7 @@
     {
       "scope": ["entity.other.attribute-name", "entity.other.inherited-class"],
       "settings": {
-        "foreground": "#fde5fa",
+        "foreground": "#9CD1BB",
         "fontStyle": "italic"
       }
     },
