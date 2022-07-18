@@ -509,7 +509,7 @@
     {
       "scope": ["entity.other.attribute-name", "entity.other.inherited-class"],
       "settings": {
-        "foreground": "#9CD1BB",
+        "foreground": "#858585",
         "fontStyle": "italic"
       }
     },
